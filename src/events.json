@@ -1,0 +1,392 @@
+[
+  {
+    "event_type": "Technical",
+    "events": [
+      {
+        "id": 1,
+        "event_name": "X-coding chaos",
+        "cordinator_name": "Karan Patani",
+        "image" : "https://i.ibb.co/Rh1s1W5/Code-monk.jpg",
+        "description": "In this event some coding tasks are given and participants need to be solved in given time. Some brainstorming tasks are given. Starts with easy task and done with hard tasks.",
+        "rules": [
+          "Time will be 90mins",
+          "Each member will play as SOLO",
+          "If Participant opens new tab or minimizes the main tab then he/she will be disqualified."
+        ],
+        "date": "24",
+        "start_time": "11:00 AM",
+        "end_time": "12:30 PM",
+        "venue": "Room no-309 , LDRP"
+      },
+      {
+        "id": 2,
+        "event_name": "Find a bug",
+        "cordinator_name": "Sheetal Yadav",
+        "image": "https://img.freepik.com/premium-vector/data-protection-data-protection-3d-vector-icon-alert-message-alert-message_123447-4021.jpg?size=626&ext=jpg&ga=GA1.1.514404074.1705765338&semt=ais",
+        "description": "There will be a list of 5 codes, Participant will have to debug them one by one according to level. This is an On-Campus contest which puts forward a series of programs in Java with very trivial and subtle errors (bugs). The participant would have to identify the bugs and debug the code to get the correct/appropriate output for all valid test cases. This would essentially be a test of the programming logic, conceptual and implementation skills of the participants in Java.",
+        "rules": [
+          "Mode of Event: Online Platform.",
+          "IDE: Online GDB",
+          "Time Limit: 60 mins",
+          "No. of Participants : Solo"
+        ],
+        "date": "24",
+        "start_time": "12:30 PM",
+        "end_time": "03:30 PM",
+        "venue": "Room no-310, LDRP"
+      },
+      {
+        "id": 3,
+        "event_name": "Quiz it",
+        "cordinator_name": "Dharmik Patel",
+        "image": "https://img.freepik.com/premium-vector/quiz-logo-poll-questionnaire-icon-symbol_101884-1076.jpg",
+        "description": "QUIZ, a contest in which participants test what they know by answering questions on one or more topics",
+        "rules": [
+          "Participant should have to carry your smart phone.",
+          "There will be three rounds.",
+          "First Round: Individual participant have to clear M.C.Q. questions of 30.",
+          "Second Round: participants will be divided in groups of three members and play buzzerround game.",
+          "third Round: in this final round, we play K.B.W."
+        ],
+        "date": "26",
+        "start_time": "09:30 AM",
+        "end_time": "11:30 AM",
+        "venue": "Room no-205 , LDRP"
+      },
+      {
+        "id": 4,
+        "event_name": "Insight typing",
+        "cordinator_name": "Margesh Usadidaya",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Use_of_C_language.jpg",
+        "description": "Participant will have to type the paragraph without seeing the display, after the completion the one with highest accuracy will be the winner.",
+        "rules": ["rule1", "rule2", "rule_n"],
+        "date": "25",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "venue": "Room no-309 , LDRP"
+      },
+      {
+        "id": 5,
+        "event_name": "Mechrun",
+        "cordinator_name": "Anush Dhakde",
+        "image": "https://i.ibb.co/7SCGpBZ/Mechrun.jpg",
+        "description": "SPECIFICATION MODULE SHOULD ABLE TO TURN RIGHT,LEFT,FORWARD AND REVERSE WIRED OR WIRELESS",
+        "rules": [
+          "MODEL SHOULD CROSS ALL THE OBSTACLES",
+          "CHECHPOINTS ARE THERE AFTER EVERY ROUND",
+          "ELIMINATION ON MULTIPLE FALLS",
+          "NO TEST PRACTICE ON ARENA",
+          "TIME LIMIT",
+          "DESICION IS TAKEN BY THE JUDGES ON POINTS",
+          "ARGUMENTS TO JUDGES LEADS TO DISQUALIFICATION",
+          "CHARGING IS PROHIBITED IN THE CAMPUS"
+        ],
+        "date": "24",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "venue": "Lab-M , LDRP"
+      },
+      {
+        "id": 6,
+        "event_name": "X-Robo Rush",
+        "cordinator_name": "Lalit Popi",
+        "image": "https://i.ibb.co/HrnVyXn/Robosoccer.jpg",
+        "description": "SPECIFICATION MODEL SHOULD BE WIRELESS. MODEL SHOULD ABLE TO TURN RIGHT,LEFT,FORWARD AND REVERSE. CLAW IS MANDATORY TO PUSH/CARRY TENNIS BALL.",
+        "rules": [
+          "BALL TYPE-TNNIS BALL",
+          "POINTS ARE SCORED ON EVERY GOAL",
+          "TWO PLAYER TEAM",
+          "MATCH TIME - 3 MINUTES"
+        ],
+        "date": "24",
+        "start_time": "02:00 PM",
+        "end_time": "03:00 PM",
+        "venue": "Lab-M , LDRP"
+      },
+      {
+        "id": 7,
+        "event_name": "Wrestlemania",
+        "cordinator_name": "Abhi Maniya",
+        "image": "https://i.ibb.co/7p0kqHy/Wrestlemania.png",
+        "description": "SPECIFICATION ANY BODY TYPE IS VALID WEIGHT LIMIT 4KG TO 5KG",
+        "rules": [
+          "ELIMINATION ON LEAVING THE DUEL AREA.",
+          "COUNTDOWN ELIMINATION IF NOT MOVE FOR 10 SECONDS"
+        ],
+        "date": "25",
+        "start_time": "10:00 AM",
+        "end_time": "11:00 AM",
+        "venue": "Lab-M , LDRP"
+      },
+      {
+        "id": 8,
+        "event_name": "Tape drive",
+        "cordinator_name": "Ritik Bhadhoriya",
+        "image": "https://i.ibb.co/1GgsHNT/Tape-drive.jpg",
+        "description": "SPECIFICATIONS MODEL SHOULD COMPLETELY WIRELESS CHROMASENSOR MODULE IS MANDATORY MODEL SHOULD ABLE TO FOLLOW BLACKTAPE PATH",
+        "rules": [
+          "WINNING IS DONE BY SCORING MAXIMUM NUMBER OF POINTS",
+          "POINTS ARE GIVEN BY JUDGES"
+        ],
+        "date": "25",
+        "start_time": "02:00 PM",
+        "end_time": "03:00 PM",
+        "venue": "Room no-008 , LDRP"
+      },
+      {
+        "id": 9,
+        "event_name": "Waterjet",
+        "cordinator_name": "Krtikey Rajput",
+        "image": "https://i.ibb.co/qBBFd6d/Waterjet.png",
+        "description": "SPECIFICATIONS REGULAR 1 LTR BOTTLE DESIGN IS OPTIONAL",
+        "rules": ["LONGEST HORIZONTAL DISTANCE WINS"],
+        "date": "25",
+        "start_time": "10:30 AM",
+        "end_time": "11:30 AM",
+        "venue": "Garden Area , LDRP"
+      },
+      {
+        "id": 10,
+        "event_name": "Poster & Video making",
+        "cordinator_name": "Vipul Vasita",
+        "image": "https://img.freepik.com/free-psd/retro-camera-poster-template-concept_23-2148551796.jpg?size=626&ext=jpg&ga=GA1.1.514404074.1705765338&semt=ais",
+        "description": "SPECIFICATIONS MODEL SHOULD ABLE TO FLY LIKE POSTER & VIDEO MAKING(LIKE BIRDS) NO ELECTRICAL COMPONENT SHOULD USE",
+        "rules": [
+          "WINNING IS DONE BY SCORING MAXIMUM NUMBER OF POINTS ",
+          "POINTS ARE GIVEN BY JUDGES"
+        ],
+        "date": "25",
+        "start_time": "11:00 AM",
+        "end_time": "11:30 AM",
+        "venue": "Garden Area , LDRP"
+      },
+      {
+        "id": 11,
+        "event_name": "Be a dev",
+        "cordinator_name": "Dhaval Patel",
+        "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__340.jpg",
+        "description": "Requirements : laptop or desktop, Topic : TechFest LDRP",
+        "rules": [
+          "website designs would be good and attractive.",
+          "Navigation should be smooth.",
+          "Participation can add any features and documents related to TechFest event.",
+          "Language for website development: participant can use any language for website designing.(HTML,CSS,JS, [REACT], .Net, Flutter etc.)",
+          "you can use any database system.(SQL, Firebase etc)"
+        ],
+        "date": "26",
+        "start_time": "12:30 PM",
+        "end_time": "01:30 PM",
+        "venue": "Seminar Hall , LDRP"
+      },
+      {
+        "id": 12,
+        "event_name": "Cad art",
+        "image": "https://i.ibb.co/bsHqW50/Cad-art.jpg",
+        "cordinator_name": "Designation",
+        "description": "Individual participation only.",
+        "rules": [
+          "Participants has to submit solid work design in 30 minute.",
+          "Software and system is provided by institute.",
+          "There is no issue if you want to use your own system.",
+          "Mobile and other smart device are prohibited.",
+          "Web browsing is not allowed.",
+          "I card and registration is compulsory.",
+          "At the end event, Winners will be announced on college Instagram pages.",
+          "Judges decisions will be final."
+        ],
+        "date": "26",
+        "start_time": "09:30 AM",
+        "end_time": "10:30 AM",
+        "venue": "LDRP"
+      },
+      {
+        "id": 13,
+        "event_name": "Mr machinist",
+        "cordinator_name": "Designation",
+        "image": "https://i.ibb.co/b5qHb3f/Mr-machinist.png",
+        "description": "All measuring and helping equipment will be provided during the event. All the participants are requested to bring their college identity card without fail. Entry throught spot and online registration. Event coordinator reserve the right to change the rule of the event on the time of event. Raw material and design will be provided at the time of event",
+        "rules": [
+          "Participant must wear full sleeve shirt/T-shirt",
+          "Participants must wear safety shoes or else will not be permitted.",
+          "Participants are not allowed to make use of any of the electronic gadgets during the event.",
+          "components and in case of damage they will not provide any other kit."
+        ],
+        "date": "24",
+        "start_time": "12:00 PM",
+        "end_time": "01:00 PM",
+        "venue": "Lab-M , LDRP"
+      }
+    ]
+  },
+  {
+    "event_type": "Non-Technical",
+    "events": [
+      {
+        "id": 14,
+        "event_name": "VALORANT(Virtual Gaming)",
+        "cordinator_name": "Gaurav Sharma",
+        "image" : "https://wallpapers.com/images/featured/valorant-305kescxw5dpup7y.webp ",
+        "description": "VALORANT is a new free game made for Indians. It is an online multiplayer battle royale game. The game includes classic mode featuring up to 100 players. Once all 100 players are ready,they get aboard a plane that flies in a straight line over the map.",
+        "rules": [
+          "All participate must have VALORANT downloaded.",
+          "All matches will be played in Erangle (TPP).",
+          "The rules and structure of the game are according to the general rules of the game.",
+          "Registration can be done individually or in a group of 4 players.",
+          "Room ID and password will be provided before the event.",
+          "Only VALORANT is allowed, no emulator will be entertained.",
+          "The participation fee for individual participation is Rs 30.",
+          "The participation fee for a team of 4 members is Rs 120.",
+          "Winners will be rewarded with attractive prizes."
+        ],
+        "date": "25",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "venue": "Seminar Hall , LDRP"
+      },
+      {
+        "id": 15,
+        "event_name": "Counter Strike 1.6 (Virtual Gaming)",
+        "cordinator_name": "Vaibhav Gajjar",
+        "image": "https://cdn.shopify.com/s/files/1/0507/1352/6462/articles/unnamed_b4e57c5b-5693-4586-a654-d51a31fd8a8e.jpg?v=1669234696",
+        "description": "Counter-Strike (CS) is a series of multiplayer first-person shooter video games in which teams of terrorists battle to perpetrate an act of terror (bombing, hostage-taking, assassination) while counter-terrorists try to prevent it (bomb defusal, hostage rescue, escort mission).",
+        "rules": [
+          "Tournament follows a Knockout format in every round, with the winner advancing to the next round and the loser gets eliminated from the tournament.",
+          "All the knockout tournaments will be unrated.",
+          "While match-making, the participants should be present for a toss.",
+          "winner of the toss will get to choose a map and the loser will get to choose whether to defend or attack.",
+          "Participants are expected to maintain decorum throughout the event.",
+          "The decision of mentor will be final and binding to all."
+        ],
+        "date": "25",
+        "start_time": "01:00 PM",
+        "end_time": "03:30 PM",
+        "venue": "Room no-201 , LDRP"
+      },
+      {
+        "id": 16,
+        "event_name": "Open stage",
+        "cordinator_name": "Dhruvin Patel",
+        "image" : "https://live.staticflickr.com/65535/48837726476_cdba6e3415_z.jpg",
+        "description": "Demonstrate your talent. In this event show your singing, dancing, playing instrument, Shayari etc.",
+        "rules": [
+          "Participants should not do any kind of offensive action, remarks towards anyone or any community."
+        ],
+        "date": "24",
+        "start_time": "11:00 AM",
+        "end_time": "12:00 PM",
+        "venue": "Main Entry , LDRP"
+      },
+      {
+        "id": 17,
+        "event_name": "Fitness Freak",
+        "cordinator_name": "Lalit popi",
+        "image" : "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "In this event show your strength of what you have got. Participants must do push-ups and plank.",
+        "rules": [
+          "Time limit:~ 15 mins",
+          "For Push-ups there will be 2 Qualification Rounds.",
+          "Participants who have cleared first round will be qualify for round 2.",
+          "For plank participants who have hold for longer time will be qualified for next round",
+          "Final Round is the ARM WRESTLING"
+        ],
+        "date": "26",
+        "start_time": "10:30 AM",
+        "end_time": "11:30 AM",
+        "venue": "Lab-M , LDRP"
+      },
+      {
+        "id": 18,
+        "event_name": "Mystery box",
+        "cordinator_name": "Hiral Sutariya",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC8mVBuJfygwYMlpW47j2L3Lluqz7ru80vkz9mvRsWw&s",
+        "description": "Mystery Boxes-A world of Surprises! In this event you try to guess mystery that the boxes Holds. Participant must guess what mysterious object is inside the box and there will be only 3 chances to guess the correct object. Give Mystery box a shot and see what your fate is.",
+        "rules": [
+          "Participants will have to guess the object placed in the mystery box.",
+          "Participant will be blindfolded at the time of guessing the object.",
+          "If participant will touch or trying to remove the blindfold, he/she will be disqualified directly.",
+          "The top 3 participants who guess the object in lowest time will be qualified.",
+          "Event Structure will be decided on the number of participants."
+        ],
+        "date": "25",
+        "start_time": "09:30 AM",
+        "end_time": "12:30 PM",
+        "venue": "Main Entry , LDRP"
+      },
+      {
+        "id": 19,
+        "event_name": "Reel star",
+        "cordinator_name": "Vanshika Bhatt",
+        "image" : "https://i.pinimg.com/736x/c7/1e/b0/c71eb0b9f9940da41678e735964c7759.jpg",
+        "description": "Behind every reel, there is a Story waiting to be told. Show Tech-Utsav From your POV. There are many fun events and games waiting for you to capture. Show your creativity and make every reel count.",
+        "rules": [
+          "• Time limit will be 20 min.",
+          "• Video length should be of 5mins.",
+          "• Video shooting should be done in THE LDRP CAMPUS only.",
+          "• The participants should bring required stuff with them.",
+          "• The reel must be an original creation.",
+          "• Any kind of offensive language, action, remarks towards anyone or any community should not be used.",
+          "• Video should be made on the spot.",
+          "• Techfest events should be used as content of the video.",
+          "• Participants must tag LDRP official Instagram account.",
+          "• Judges will decide winner on base of the creativity and originality."
+        ]
+      },
+      {
+        "id": 20,
+        "event_name": "Anime quiz",
+        "cordinator_name": "Khushbu Saxena",
+        "image" : "https://i.ibb.co/5T0WF3b/Anime-quiz.jpg",
+        "description": "QUIZ, a contest in which participants test what they know by answering questions on one or more topics of ANIME.",
+        "rules": [
+          "Participants will be divided into team members consisting of 3 students per team.",
+          "Answer only after the question is fully read.",
+          "Team who has pressed buzzer first will answer.",
+          "If any team answer will be wrong, then it will be passed to another team.",
+          "Team with higher score will be selected for next round.",
+          "Friendly behaviour should be maintained throughout the quiz if and mischievous activities will be done my any team member the whole team will be disqualified at a time."
+        ],
+        "date": "24",
+        "start_time": "01:00 PM",
+        "end_time": "03:00 PM",
+        "venue": "Room no-205 , LDRP"
+      },
+      {
+        "id": 21,
+        "event_name": "Rodiezz",
+        "cordinator_name": "Raj Ahir",
+        "image" : "https://t4.ftcdn.net/jpg/06/49/26/79/240_F_649267930_CqZwcqylsgi5JYQbinjz2l3sJ9EI1mVM.jpg",
+        "description": "Here you will get the track and on that track you will get some tasks and some levels harder of that particular task this is an event or task like roadies and khatron ke khiladii...",
+        "rules": ["rule1"],
+        "event_image": "img/sample.svg",
+        "date": "26",
+        "start_time": "10:00 AM",
+        "end_time": "11:30 AM",
+        "venue": "Garden Area , LDRP"
+      },
+      {
+        "id": 22,
+        "event_name": "Model exhibition",
+        "cordinator_name": "Designation",
+        "image" : "https://thumbs.dreamstime.com/b/bumblebee-robot-model-exhibition-hall-wulong-karst-bus-terminal-chongqing-china-december-station-to-three-natural-167308834.jpg",
+        "description": "Participants must show live working project. Project can be either software or hardware based.",
+        "rules": ["rule1"]
+      },
+      {
+        "id": 23,
+        "event_name": "Campus hunt",
+        "cordinator_name": "Bhavin Desai",
+        "image" : "https://i.ytimg.com/vi/WtnMBnXCqPY/maxresdefault.jpg",
+        "description": "OVERVIEW: Be fast, be alert. Play the most challenging game in the most challenging format. Rush the adrenaline in your veins, feel the heart pumping and enjoy the beauty of victory. Skills, power, speed, and strength, you will need them all. So, start practicing right now, the whistle is going to ring soon. The whole college is an open jungle. Search, explore and find the target. It is not a game for the ordinary but for the best of the best. Be ready may the odds be ever in your favour.",
+        "rules": [
+          "The rules are simple all the teams will have the clues which leads to another clues and then to the main object.",
+          "Clues should be solved by team itself no use of internet or should not taken help from any outsiders.",
+          "The participant on fee for 4-5 max participants is Rs 30."
+        ],
+        "date": "26",
+        "start_time": "12:00 PM",
+        "end_time": "03:00 PM",
+        "venue": "Main Entry , LDRP"
+      }
+    ]
+  }
+]
