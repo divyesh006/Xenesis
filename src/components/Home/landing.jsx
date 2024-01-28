@@ -162,7 +162,7 @@ const Landing = () => {
                   <div className="inner-content" data-aos="flip-up">
                     <ul className="flex ml0 pl0 date-time-add">
                       <li>
-                        <BsFillCalendarDateFill color="#2868C5" /> 25 April 2023
+                        <BsFillCalendarDateFill color="#2868C5" /> 21 February 2024
                       </li>
                       <li>
                         <TiLocation color="#2868C5" />
@@ -190,7 +190,7 @@ const Landing = () => {
                     <div className="left-content align-self-center">
                       <span className="flex gap-2">
                         {" "}
-                        <BsFillCalendarDateFill color="#07a832" /> 26 April 2023
+                        <BsFillCalendarDateFill color="#07a832" /> 22 February 2024
                       </span>
                       <a href="/event/23" className="text-decoration">
                         <h4>Campus Hunt</h4>
